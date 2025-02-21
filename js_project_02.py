@@ -28,7 +28,7 @@ def conversation():
         print("That sounds cool!")
         print("Do you read comics?")
         print("That sounds awesome!")
-        print("Thank you for your time. Goodbye!")
+        print("Thank you for your time. Goodbye!") 
 def main():
     conversation()
 
